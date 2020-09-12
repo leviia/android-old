@@ -23,7 +23,7 @@
     <!-- URLs and flags related -->
     <bool name="show_server_url_input">true</bool>
     <bool name="show_provider_or_own_installation">true</bool>
-    <string name="provider_registration_server">https://www.leviia.com/register</string>
+    <string name="provider_registration_server">https://www.leviia.com/</string>
 
     <!-- Flags to enable/disable some features -->
     <string name="send_files_to_other_apps">on</string>
