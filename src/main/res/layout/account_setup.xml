@@ -51,6 +51,7 @@
             android:orientation="vertical"
             android:padding="@dimen/standard_half_padding">
 
+
             <FrameLayout
                 android:id="@+id/host_url_frame"
                 android:layout_width="match_parent"
@@ -63,26 +64,31 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
+
+
                     <TextView
                         android:id="@+id/edit_text"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:ems="10"
                         android:text="@string/auth_host_url"
-                        android:textColor="@color/login_text_color" />
+                        android:textColor="@color/login_text_color"
+                        android:visibility="invisible" />
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:id="@+id/host_url_input"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom"
+                        android:text="cloud.leviia.com"
                         android:contentDescription="@string/auth_host_address"
                         android:drawablePadding="@dimen/alternate_half_padding"
                         android:inputType="textUri"
                         android:paddingStart="@dimen/zero"
                         android:paddingEnd="@dimen/alternate_padding_right"
                         android:textColor="@color/login_text_color"
-                        android:textColorHint="@color/login_text_color">
+                        android:textColorHint="@color/login_text_color"
+                        android:visibility="invisible">
 
                         <requestFocus />
 
@@ -102,9 +108,19 @@
                     android:padding="@dimen/zero"
                     android:scaleType="fitCenter"
                     android:src="@drawable/arrow_right"
-                    android:tint="@color/login_text_color" />
+                    android:tint="@color/login_text_color"
+                    android:visibility="invisible" />
 
             </FrameLayout>
+
+            <ImageButton
+                android:id="@+id/scan_qr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/transparent"
+                android:contentDescription="@string/scanQR_description"
+                android:src="@drawable/qrcode_scan"
+                android:theme="@style/Button.Login" />
 
             <TextView
                 android:id="@+id/server_status_text"
@@ -129,16 +145,24 @@
                 android:drawablePadding="@dimen/alternate_half_padding"
                 android:gravity="center_vertical"
                 android:text="@string/auth_unauthorized"
-                android:textColor="@color/login_text_color" />
+                android:textColor="@color/login_text_color"
+                android:visibility="invisible" />
 
-            <ImageButton
-                android:id="@+id/scan_qr"
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/login_username_password"
+                android:theme="@style/OutlineLoginButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@color/transparent"
-                android:contentDescription="@string/scanQR_description"
-                android:src="@drawable/qrcode_scan"
-                android:theme="@style/Button.Login" />
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:maxWidth="500dp"
+                android:minWidth="300dp"
+                android:textStyle="bold"
+                android:padding="@dimen/standard_padding"
+                android:text="@string/login_username_password"
+                android:onClick="onTestServerConnectionClick"
+                app:cornerRadius="@dimen/button_corner_radius" />
 
         </LinearLayout>
 
