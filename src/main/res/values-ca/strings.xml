@@ -608,7 +608,7 @@
     <string name="shared_icon_shared_via_link">Compartit a través d\'un enllaç</string>
     <string name="shared_with_you_by">Compartit per %1$s</string>
     <string name="sharee_add_failed">Ha fallat l\'afegit de compartició</string>
-    <string name="signup_with_provider">Registreu-vos amb el proveïdor</string>
+    <string name="signup_with_provider">Obteniu un compte</string>
     <string name="single_sign_on_request_token" formatted="true">Voleu permetre que %1$s accedeixi al vostre compte de Nextcloud %2$s?</string>
     <string name="sort_by">Ordena per</string>
     <string name="sort_by_modification_date_ascending">Més nou primer</string>

@@ -609,7 +609,7 @@
     <string name="shared_icon_shared_via_link">поступ по ссылке</string>
     <string name="shared_with_you_by">С вами поделился %1$s</string>
     <string name="sharee_add_failed">Не удалось открыть общий доступ</string>
-    <string name="signup_with_provider">Подключиться через поставщика услуги</string>
+    <string name="signup_with_provider">Получить аккаунт</string>
     <string name="single_sign_on_request_token" formatted="true">Разрешить %1$s получить доступ к вашей учетной записи Nextcloud %2$s?</string>
     <string name="sort_by">Порядок сортировки</string>
     <string name="sort_by_modification_date_ascending">Сначала новые</string>

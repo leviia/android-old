@@ -572,7 +572,7 @@
     <string name="shared_icon_shared_via_link">споделено преку линк</string>
     <string name="shared_with_you_by"> %1$s сподели со тебе</string>
     <string name="sharee_add_failed">Грешка при споделувањето</string>
-    <string name="signup_with_provider">Пријавете се преку провајдер</string>
+    <string name="signup_with_provider">Добијте сметка</string>
     <string name="single_sign_on_request_token" formatted="true">Дозволи му на %1$s да пристапи на твојата Nextcloud сметка %2$s?</string>
     <string name="sort_by">Сортирај по</string>
     <string name="sort_by_modification_date_ascending">Новите прво</string>

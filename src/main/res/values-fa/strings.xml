@@ -365,7 +365,7 @@
     <string name="logs_title">Logs</string>
     <string name="maintenance_mode">سرور در حالت تعمیر و نگهداری</string>
     <string name="manage_space_clear_data">اطلاعات روشن</string>
-    <string name="manage_space_description">   تنظیمات ، پایگاه داده و گواهینامه های سرور از 
+    <string name="manage_space_description">   تنظیمات ، پایگاه داده و گواهینامه های سرور از
 %1$sداده ها به طور دائم حذف می شوند.فایلهای بارگیری نشده دست نخورده باقی می مانند. این فرآیند می تواند مدتی طول بکشد.</string>
     <string name="manage_space_title">مدیریت فضا</string>
     <string name="media_err_invalid_progressive_playback">فایل رسانه ای قابل پخش نیست</string>
@@ -570,7 +570,7 @@
     <string name="shared_icon_shared_via_link">از طریق پیوند به اشتراک گذاشته شد</string>
     <string name="shared_with_you_by">به اشتراک گذاشه با شما توسط %1$s</string>
     <string name="sharee_add_failed">افزودن سهم انجام نشد</string>
-    <string name="signup_with_provider">Sign up with provider</string>
+    <string name="signup_with_provider">یک حساب باز کنید</string>
     <string name="single_sign_on_request_token" formatted="true">اجازه  %1$s برای دسترسی به اکانت نکست کلود %2$s?</string>
     <string name="sort_by">مرتب سازی بر اساس</string>
     <string name="sort_by_modification_date_ascending">تازه ترین ها اول </string>

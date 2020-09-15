@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">дељено путем везе</string>
     <string name="shared_with_you_by">Дели са вама %1$s</string>
     <string name="sharee_add_failed">Додавање особе за дељење није успело</string>
-    <string name="signup_with_provider">Пријавите се преко провајдера</string>
+    <string name="signup_with_provider">Нађите рачун</string>
     <string name="single_sign_on_request_token" formatted="true">Може ли %1$s да приступи Некстклауд налогу %2$s?</string>
     <string name="sort_by">Разврстај</string>
     <string name="sort_by_modification_date_ascending">Прво новије</string>

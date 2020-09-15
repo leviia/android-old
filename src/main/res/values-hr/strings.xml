@@ -586,7 +586,7 @@
     <string name="shared_icon_shared_via_link">dijeljeno putem poveznice</string>
     <string name="shared_with_you_by">S vama podijelio %1$s</string>
     <string name="sharee_add_failed">Dodavanje osobe za dijeljenje nije uspjelo</string>
-    <string name="signup_with_provider">Prijavite se kod davatelja usluga</string>
+    <string name="signup_with_provider">Nađite račun</string>
     <string name="single_sign_on_request_token" formatted="true">Dopusti %1$s pristup Nextcloud računu %2$s?</string>
     <string name="sort_by">Razvrstaj prema</string>
     <string name="sort_by_modification_date_ascending">Najnoviji prvi</string>

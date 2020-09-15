@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">Über einen Link geteilt</string>
     <string name="shared_with_you_by">Geteilt mit Ihnen von %1$s</string>
     <string name="sharee_add_failed">Freigeben fehlgeschlagen</string>
-    <string name="signup_with_provider">Mit Provider anmelden</string>
+    <string name="signup_with_provider">Ein Konto erstellen</string>
     <string name="single_sign_on_request_token" formatted="true">Zulassen, dass %1$s auf Ihr Nextcloud Konto %2$s zugreifen darf?</string>
     <string name="sort_by">Sortiere nach</string>
     <string name="sort_by_modification_date_ascending">Neueste zuerst</string>

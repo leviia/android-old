@@ -602,7 +602,7 @@
     <string name="shared_icon_shared_via_link">通过链接共享</string>
     <string name="shared_with_you_by">您已通过 %1$s 共享</string>
     <string name="sharee_add_failed">新建共享失败</string>
-    <string name="signup_with_provider">与提供商签约</string>
+    <string name="signup_with_provider">取得帐号</string>
     <string name="single_sign_on_request_token" formatted="true">是否允许%1$s访问您的 Nextcloud 账号%2$s？</string>
     <string name="sort_by">排序方式</string>
     <string name="sort_by_modification_date_ascending">新文件在前</string>

@@ -605,7 +605,7 @@ GNU yleinen lisenssi, versio 2</string>
     <string name="shared_icon_shared_via_link">jaettu linkin kautta</string>
     <string name="shared_with_you_by">Jaettu sinulle käyttäjältä %1$s</string>
     <string name="sharee_add_failed">Jaon lisääminen epäonnistui</string>
-    <string name="signup_with_provider">Kirjaudu sisään palvelutarjoajan kautta</string>
+    <string name="signup_with_provider">Hanki tili</string>
     <string name="single_sign_on_request_token" formatted="true">Salli käyttäjälle %1$s pääsy Nextcloud -tilillesi %2$s?</string>
     <string name="sort_by">Lajittelujärjestys</string>
     <string name="sort_by_modification_date_ascending">Uusin ensin</string>

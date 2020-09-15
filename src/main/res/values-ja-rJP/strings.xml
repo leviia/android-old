@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">リンク経由で共有</string>
     <string name="shared_with_you_by">%1$sと共有中</string>
     <string name="sharee_add_failed">共有を追加できませんでした</string>
-    <string name="signup_with_provider">他のサービスでサインアップ</string>
+    <string name="signup_with_provider">アカウントを取得する</string>
     <string name="single_sign_on_request_token" formatted="true">%1$s があなたのNextcloudアカウント %2$s にアクセスできるようにしますか？</string>
     <string name="sort_by">ソート</string>
     <string name="sort_by_modification_date_ascending">新しい順</string>

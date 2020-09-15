@@ -595,7 +595,7 @@
     <string name="shared_icon_shared_via_link">透過連結分享</string>
     <string name="shared_with_you_by">%1$s已經和你分享</string>
     <string name="sharee_add_failed">分享失敗</string>
-    <string name="signup_with_provider">使用第三方登入</string>
+    <string name="signup_with_provider">取得帳號</string>
     <string name="single_sign_on_request_token" formatted="true">允許%1$s存取您的Nextcloud帳號%2$s？</string>
     <string name="sort_by">排列方式</string>
     <string name="sort_by_modification_date_ascending">最新先</string>

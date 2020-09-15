@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">compartilhado via link</string>
     <string name="shared_with_you_by">Compartilhado com você por %1$s</string>
     <string name="sharee_add_failed">Falha ao compartilhar</string>
-    <string name="signup_with_provider">Registre-se com um provedor</string>
+    <string name="signup_with_provider">Tenha uma conta</string>
     <string name="single_sign_on_request_token" formatted="true">Permitir %1$s acesso à sua conta %2$s?</string>
     <string name="sort_by">Ordenar por</string>
     <string name="sort_by_modification_date_ascending">Mais novos primeiro</string>

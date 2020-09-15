@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">Διαμοιράστηκε μέσω συνδέσμου</string>
     <string name="shared_with_you_by">Διαμοιράστηκε με εσάς από τον %1$s</string>
     <string name="sharee_add_failed">Η προσθήκη κοινής χρήσης απέτυχε</string>
-    <string name="signup_with_provider">Σύνδεση με πάροχο</string>
+    <string name="signup_with_provider">Αποκτήστε λογαριασμό</string>
     <string name="single_sign_on_request_token" formatted="true">Επιτρέπεται το %1$sνα έχει πρόσβαση στον λογαριασμό σας Nextclound %2$s ?</string>
     <string name="sort_by">Ταξινόμηση κατά</string>
     <string name="sort_by_modification_date_ascending">Νεότερο πρώτα</string>

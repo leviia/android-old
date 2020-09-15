@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">v souporabi prek povezave</string>
     <string name="shared_with_you_by">Souporabo omogoča %1$s</string>
     <string name="sharee_add_failed">Dodajanje souporabnika je spodletelo</string>
-    <string name="signup_with_provider">Prijava prek ponudnika</string>
+    <string name="signup_with_provider">Pridobite račun</string>
     <string name="single_sign_on_request_token" formatted="true">Ali dovolite uporabniku %1$s dostop do računa Nextcloud %2$s?</string>
     <string name="sort_by">Razvrsti</string>
     <string name="sort_by_modification_date_ascending">najprej najnovejše</string>

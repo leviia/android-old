@@ -602,7 +602,7 @@
     <string name="shared_icon_shared_via_link">مشارك عبر الرابط</string>
     <string name="shared_with_you_by">مشارك معك بواسطة %1$s</string>
     <string name="sharee_add_failed">فشلت إضافة المشارك</string>
-    <string name="signup_with_provider">التسجيل عبر مزوّد خدمة</string>
+    <string name="signup_with_provider">الحصول على حساب</string>
     <string name="single_sign_on_request_token" formatted="true">هل تسمح لـ%1$s بالوصول إلى حسابك %2$s في Nextcloud؟</string>
     <string name="sort_by">ترتيب</string>
     <string name="sort_by_modification_date_ascending">الأحدث أولا</string>

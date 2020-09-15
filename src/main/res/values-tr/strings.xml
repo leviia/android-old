@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">bağlantı ile paylaşılmış</string>
     <string name="shared_with_you_by">Sizinle %1$s ile paylaşılmış</string>
     <string name="sharee_add_failed">Paylaşım eklenemedi</string>
-    <string name="signup_with_provider">Hizmet sağlayıcı ile hesap aç</string>
+    <string name="signup_with_provider">Bir hesap al</string>
     <string name="single_sign_on_request_token" formatted="true">%1$s, %2$s Nextcloud hesabınıza erişebilsin mi?</string>
     <string name="sort_by">Sıralama</string>
     <string name="sort_by_modification_date_ascending">Yeniden Eskiye</string>

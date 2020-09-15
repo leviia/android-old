@@ -562,7 +562,7 @@
     <string name="shared_icon_shared_via_link">compartido a través del Link</string>
     <string name="shared_with_you_by">Compartido contigo por %1$s</string>
     <string name="sharee_add_failed">No se pudo agregar el archivo compartido</string>
-    <string name="signup_with_provider">Registrarse con el proveedor</string>
+    <string name="signup_with_provider">Obtener una cuenta</string>
     <string name="single_sign_on_request_token" formatted="true">Permitir que %1$s acceda a su cuenta de Nextcloud %2$s?</string>
     <string name="sort_by">Ordenar por</string>
     <string name="sort_by_modification_date_ascending">El más reciente primero</string>

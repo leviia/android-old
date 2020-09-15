@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">deilt með tengli</string>
     <string name="shared_with_you_by">Deilt með þér af %s</string>
     <string name="sharee_add_failed">Mistókst að bæta við deilingu</string>
-    <string name="signup_with_provider">Skráðu þig hjá þjónustu</string>
+    <string name="signup_with_provider">Fáðu þér reikning</string>
     <string name="single_sign_on_request_token" formatted="true">Leyfa %1$s að að fá aðgang að %2$s Nextcloud-aðgangnum þínum?</string>
     <string name="sort_by">Raða eftir</string>
     <string name="sort_by_modification_date_ascending">Nýjast fyrst</string>

@@ -609,7 +609,7 @@
     <string name="shared_icon_shared_via_link">링크로 공유됨</string>
     <string name="shared_with_you_by">다음을 이용해 나와 공유됨 %1$s</string>
     <string name="sharee_add_failed">공유사용자 추가 실패</string>
-    <string name="signup_with_provider">공급자로 가입</string>
+    <string name="signup_with_provider">계정 받기</string>
     <string name="single_sign_on_request_token" formatted="true">%1$s가 Nextcloud 계정%2$s에 액세스하도록 허용 하시겠습니까?</string>
     <string name="sort_by">정렬</string>
     <string name="sort_by_modification_date_ascending">새 항목 먼저</string>

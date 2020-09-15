@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">sprístupnené prostredníctvom odkazu</string>
     <string name="shared_with_you_by">Sprístupnené vám používateľom %1$s</string>
     <string name="sharee_add_failed">Pridanie sprístupňujúceho sa nepodarilo</string>
-    <string name="signup_with_provider">Zaregistrovať sa u poskytovateľa</string>
+    <string name="signup_with_provider">Získajte účet</string>
     <string name="single_sign_on_request_token" formatted="true">Umožniť %1$s pristupovať k Vášmu Nextcloud účtu %2$s?</string>
     <string name="sort_by">Zoradiť podľa</string>
     <string name="sort_by_modification_date_ascending">Najnovšie prvé</string>

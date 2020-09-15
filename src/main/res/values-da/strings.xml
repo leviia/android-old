@@ -487,7 +487,7 @@
     <string name="prefs_license">Licens</string>
     <string name="prefs_lock">App adgangskode</string>
     <string name="prefs_lock_device_credentials_enabled">Enheds legitimationsoplysninger aktiveret</string>
-    <string name="prefs_lock_device_credentials_not_setup">Ingen 
+    <string name="prefs_lock_device_credentials_not_setup">Ingen
 Enheds legitimationsoplysninger er sat op
 </string>
     <string name="prefs_lock_none">Ingen</string>
@@ -590,7 +590,7 @@ Enheds legitimationsoplysninger er sat op
     <string name="shared_icon_shared_via_link">Delt via link</string>
     <string name="shared_with_you_by">Delt med dig af %1$s</string>
     <string name="sharee_add_failed">Tilføj deler fejlet</string>
-    <string name="signup_with_provider">Indskrivning hos udbyder</string>
+    <string name="signup_with_provider">Få en konto</string>
     <string name="single_sign_on_request_token" formatted="true">Tillad %1$s adgang til din Nextcloud account %2$s?</string>
     <string name="sort_by">Sortér efter</string>
     <string name="sort_by_modification_date_ascending">Nyeste først</string>

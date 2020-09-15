@@ -611,7 +611,7 @@
     <string name="shared_icon_shared_via_link">bendrinta per nuorodą</string>
     <string name="shared_with_you_by">%1$s bendrina su Jumis.</string>
     <string name="sharee_add_failed">Bendrinimo pridėjimas nepavyko</string>
-    <string name="signup_with_provider">Registruotis su tiekėju</string>
+    <string name="signup_with_provider">Gaukite sąskaitą</string>
     <string name="single_sign_on_request_token" formatted="true">Leisti %1$s gauti prieigą prie jūsų Nextcloud paskyros %2$s?</string>
     <string name="sort_by">Rikiuoti pagal</string>
     <string name="sort_by_modification_date_ascending">Naujausi pirma</string>

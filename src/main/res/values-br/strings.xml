@@ -610,7 +610,7 @@
     <string name="shared_icon_shared_via_link">rannet dre liamm</string>
     <string name="shared_with_you_by">Rannet ganeoc\'h dre %1$s</string>
     <string name="sharee_add_failed">C\'huitet ouzhpennan ar rannedoù</string>
-    <string name="signup_with_provider">En em kemprenn gant ur pourvezher</string>
+    <string name="signup_with_provider">Tenha uma conta</string>
     <string name="single_sign_on_request_token" formatted="true">Aotreiñ %1$s mont war o c\'hont Nextcloud %2$s ?</string>
     <string name="sort_by">Renkañ dre</string>
     <string name="sort_by_modification_date_ascending">An hini nevesañ da gentañ</string>
