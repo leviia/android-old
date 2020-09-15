@@ -100,15 +100,7 @@ public class FirstRunActivity extends BaseActivity implements ViewPager.OnPageCh
         providerButton.setTextColor(getResources().getColor(R.color.login_text_color));
         providerButton.setVisibility(isProviderOrOwnInstallationVisible ? View.VISIBLE : View.GONE);
         providerButton.setOnClickListener(v -> {
-            Intent authenticatorActivityIntent = new Intent(this, AuthenticatorActivity.class);
-            authenticatorActivityIntent.putExtra(AuthenticatorActivity.EXTRA_USE_PROVIDER_AS_WEBLOGIN, true);
-
-            if (getIntent().getBooleanExtra(EXTRA_ALLOW_CLOSE, false)) {
-                startActivityForResult(authenticatorActivityIntent, FIRST_RUN_RESULT_CODE);
-            } else {
-                authenticatorActivityIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                startActivity(authenticatorActivityIntent);
-            }
+            startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(getString(R.string.provider_registration_server))));
         });
 
         TextView hostOwnServerTextView = findViewById(R.id.host_own_server);
