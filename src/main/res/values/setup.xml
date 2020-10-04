@@ -66,9 +66,9 @@
     <bool name="show_hidden_files_enabled">true</bool>
     <bool name="davdroid_integration_enabled">true</bool>
     <bool name="help_enabled">true</bool>
-    <string name="url_help">https://help.nextcloud.com/c/feature</string>
+    <string name="url_help">https://www.leviia.com</string>
     <bool name="privacy_enabled">true</bool>
-    <string name="privacy_url">https://nextcloud.com/privacy</string>
+    <string name="privacy_url">https://www.leviia.com/en/legal-information/</string>
     <bool name="imprint_enabled">false</bool>
     <bool name="recommend_enabled">true</bool>
     <bool name="logger_enabled">false</bool>
@@ -78,7 +78,7 @@
     <string name="license_url" translatable="false">https://www.gnu.org/licenses/gpl-2.0.html</string>
     <string name="url_imprint"></string>
     <string name="url_app_download">"https://play.google.com/store/apps/details?id=com.nextcloud.client"</string>
-    <string name="url_server_install">https://nextcloud.com/install</string>
+    <string name="url_server_install">https://www.leviia.com</string>
 
     <!-- synced folder light; if enabled: move to setting & global upload settings -->
     <bool name="syncedFolder_light">false</bool>
@@ -122,5 +122,3 @@
 
     <string name="buildNumber" translatable="false"></string>
 </resources>
-
-
