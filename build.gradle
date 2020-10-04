@@ -159,24 +159,24 @@ android {
         productFlavors {
             // used for f-droid
             generic {
-                applicationId 'com.nextcloud.client'
+                applicationId 'com.leviia.client'
                 dimension "default"
             }
 
             gplay {
-                applicationId 'com.nextcloud.client'
+                applicationId 'com.leviia.client'
                 dimension "default"
             }
 
             versionDev {
-                applicationId "com.nextcloud.android.beta"
+                applicationId "com.leviia.android.beta"
                 dimension "default"
                 versionCode 20200129
                 versionName "20200129"
             }
 
             qa {
-                applicationId "com.nextcloud.android.qa"
+                applicationId "com.leviia.android.qa"
                 dimension "default"
                 versionCode 1
                 versionName "1"

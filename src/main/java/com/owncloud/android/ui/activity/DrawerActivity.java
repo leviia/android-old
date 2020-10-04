@@ -307,8 +307,8 @@ public abstract class DrawerActivity extends ToolbarActivity
 
         DrawerMenuUtil.setupHomeMenuItem(menu, getResources());
 
-        DrawerMenuUtil.removeMenuItem(menu, R.id.nav_community,
-                                      !getResources().getBoolean(R.bool.participate_enabled));
+        //DrawerMenuUtil.removeMenuItem(menu, R.id.nav_community,
+        //                              !getResources().getBoolean(R.bool.participate_enabled));
         DrawerMenuUtil.removeMenuItem(menu, R.id.nav_shared, !getResources().getBoolean(R.bool.shared_enabled));
         DrawerMenuUtil.removeMenuItem(menu, R.id.nav_contacts, !getResources().getBoolean(R.bool.contacts_backup)
             || !getResources().getBoolean(R.bool.show_drawer_contacts_backup));
@@ -374,9 +374,9 @@ public abstract class DrawerActivity extends ToolbarActivity
             case R.id.nav_settings:
                 startActivity(SettingsActivity.class);
                 break;
-            case R.id.nav_community:
-                startActivity(CommunityActivity.class);
-                break;
+            //case R.id.nav_community:
+            //    startActivity(CommunityActivity.class);
+            //    break;
             case R.id.nav_logout:
                 mCheckedMenuItem = -1;
                 menuItem.setChecked(false);

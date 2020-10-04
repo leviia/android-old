@@ -173,7 +173,7 @@ public class SettingsActivity extends ThemedPreferenceActivity
         setupDetailsCategory(accentColor, preferenceScreen);
 
         // More
-        setupMoreCategory(accentColor);
+        //setupMoreCategory(accentColor);
 
         // About
         setupAboutCategory(accentColor, appVersion);

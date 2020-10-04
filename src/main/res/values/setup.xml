@@ -7,12 +7,13 @@
     <!-- App name  and other strings-->
     <string name="app_name">Leviia</string>
     <string name="account_type">leviia</string>     <!-- better if was a domain name; but changing it now would require migrate accounts when the app is updated -->
-    <string name="authority">org.nextcloud</string>    <!-- better if was the app package with ".provider" appended ; it identifies the provider -->
+    <string name="authority">org.leviia</string>    <!-- better if was the app package with ".provider" appended ; it
+    identifies the provider -->
     <string name="users_and_groups_search_authority">com.nextcloud.android.providers.UsersAndGroupsSearchProvider</string>
     <string name="users_and_groups_share_with">com.nextcloud.android.providers.UsersAndGroupsSearchProvider.action.SHARE_WITH</string>
-    <string name="document_provider_authority">org.nextcloud.documents</string>
-    <string name="file_provider_authority">org.nextcloud.files</string>
-    <string name="image_cache_provider_authority">org.nextcloud.imageCache.provider</string>
+    <string name="document_provider_authority">org.leviia.documents</string>
+    <string name="file_provider_authority">org.leviia.files</string>
+    <string name="image_cache_provider_authority">org.leviia.imageCache.provider</string>
     <string name="db_file">leviia.db</string>
     <string name="db_name">leviia</string>
     <string name="data_folder">leviia</string>

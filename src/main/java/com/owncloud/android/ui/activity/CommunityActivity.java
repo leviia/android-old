@@ -51,7 +51,7 @@ public class CommunityActivity extends FileActivity {
         updateActionBarTitleAndHomeButtonByString(getString(R.string.drawer_community));
 
         // setup drawer
-        setupDrawer(R.id.nav_community);
+        //setupDrawer(R.id.nav_community);
 
         setupContent();
     }
@@ -145,6 +145,6 @@ public class CommunityActivity extends FileActivity {
     protected void onResume() {
         super.onResume();
 
-        setDrawerMenuItemChecked(R.id.nav_community);
+        //setDrawerMenuItemChecked(R.id.nav_community);
     }
 }
