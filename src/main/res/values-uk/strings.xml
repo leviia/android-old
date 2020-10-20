@@ -35,7 +35,10 @@
     <string name="add_another_public_share_link">Додати інше посилання</string>
     <string name="add_new_public_share">Додати нове публічне посилання</string>
     <string name="add_to_cloud">Додати до %1$s</string>
+    <string name="allow_creating">Може створювати</string>
+    <string name="allow_deleting">Може вилучати</string>
     <string name="allow_editing">Може редагувати</string>
+    <string name="allow_resharing">Можете ділитися</string>
     <string name="appbar_search_in">Пошук у %s</string>
     <string name="associated_account_not_found">Пов\'язаний обліковий запис не знайдено!</string>
     <string name="auth_access_failed">Доступ невдалий: %1$s</string>
@@ -273,6 +276,7 @@
     <string name="failed_to_download">Не вдалося передати файл до менеджера звантажень</string>
     <string name="failed_to_print">Не вдалося роздрукувати файл</string>
     <string name="failed_to_start_editor">Не вдалося запустити редактор</string>
+    <string name="failed_update_ui">Неможливо оновити інтерфейс</string>
     <string name="favorite">Додати до обраного</string>
     <string name="favorite_icon">Улюблений</string>
     <string name="file_delete">Вилучити</string>
@@ -373,6 +377,9 @@
     <string name="invalid_url">Неправильний URL</string>
     <string name="label_empty">Ярлик не може бути порожнім</string>
     <string name="link">Посилання</string>
+    <string name="link_share_allow_upload_and_editing">Може завантажувати та редагувати</string>
+    <string name="link_share_file_drop">Сховище (тільки завантажування)</string>
+    <string name="link_share_read_only">Тільки читання</string>
     <string name="list_layout">Шаблон списку</string>
     <string name="local_file_list_empty">В цій теці немає файлів.</string>
     <string name="local_file_not_found_message">Файл не знайдено у локальній файловій системі</string>
@@ -477,6 +484,7 @@
     <string name="pref_behaviour_entries_move">переміщено до теки застосунку</string>
     <string name="pref_instant_name_collision_policy_dialogTitle">Що робити, якщо такий файл уже наявний?</string>
     <string name="pref_instant_name_collision_policy_entries_always_ask">Питати щоразу</string>
+    <string name="pref_instant_name_collision_policy_entries_cancel">Пропустити загрузку</string>
     <string name="pref_instant_name_collision_policy_entries_overwrite">Переписувати віддалену версію</string>
     <string name="pref_instant_name_collision_policy_entries_rename">Перейменовувати нову версію </string>
     <string name="pref_instant_name_collision_policy_title">Що робити, якщо такий файл уже наявний?</string>
@@ -580,12 +588,14 @@
     <string name="share_internal_link_to_file_text">Внутрішнє спільне посилання дійсне лише для користувачів, які мають доступ до цього файлу</string>
     <string name="share_internal_link_to_folder_text">Внутрішнє спільне посилання дійсне лише для користувачів, які мають доступ до цієї теки</string>
     <string name="share_known_remote_clarification">%1$s (о %2$s)</string>
+    <string name="share_link">Поділитися посиланням</string>
     <string name="share_link_empty_password">Ви повинні ввести пароль</string>
     <string name="share_link_file_error">Посилка під час надання спільного доступу до файлу чи теки.</string>
     <string name="share_link_file_no_exist">Неможливо надати спільний доступ. Будь ласка, перевірте, чи файл існує.</string>
     <string name="share_link_forbidden_permissions">для надання доступу до файла</string>
     <string name="share_link_optional_password_title">Зазначте пароль (необов\'язково)</string>
     <string name="share_link_password_title">Ввести пароль</string>
+    <string name="share_link_with_label">Поділитись посиланням (%1$s)</string>
     <string name="share_no_expiration_date_label">Встановити термін дії</string>
     <string name="share_no_password_title">Встановити пароль</string>
     <string name="share_password_title">Захищено паролем</string>

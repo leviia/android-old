@@ -34,7 +34,10 @@
     <string name="add_another_public_share_link">Přidat další odkaz</string>
     <string name="add_new_public_share">Přidat nový veřejný odkaz na sdílení</string>
     <string name="add_to_cloud">Přidat k %1$s</string>
+    <string name="allow_creating">Umožnit vytváření</string>
+    <string name="allow_deleting">Umožnit mazání</string>
     <string name="allow_editing">Umožnit úpravy</string>
+    <string name="allow_resharing">Umožnit sdílet dál dalším</string>
     <string name="appbar_search_in">Hledat v %s</string>
     <string name="associated_account_not_found">Související účet nenalezen!</string>
     <string name="auth_access_failed">Přístup se nezdařil: %1$s</string>
@@ -165,6 +168,7 @@
     <string name="copy_move_to_encrypted_folder_not_supported">Kopírování/přesouvání do šifrované složky není v tuto chvíli podporováno.</string>
     <string name="copy_to">Zkopírovat do…</string>
     <string name="could_not_download_image">Nepodařilo se stáhnout celý obrázek</string>
+    <string name="could_not_retrieve_shares">Nedaří se získat sdílení</string>
     <string name="could_not_retrieve_url">Nepodařilo se získat URL</string>
     <string name="create_dir_fail_msg">Nepodařilo se vytvořit složku</string>
     <string name="create_new">Vytvořit nové</string>
@@ -272,6 +276,7 @@
     <string name="failed_to_download">Předání souboru správci stahování se nezdařilo</string>
     <string name="failed_to_print">Soubor se nepodařilo vytisknout</string>
     <string name="failed_to_start_editor">Editor se nepodařilo spustit</string>
+    <string name="failed_update_ui">Nepodařilo se aktualizovat uživatelské rozhraní</string>
     <string name="favorite">Přidat do oblíbených</string>
     <string name="favorite_icon">Oblíbené</string>
     <string name="file_delete">Smazat</string>
@@ -372,6 +377,9 @@
     <string name="invalid_url">Neplatná URL adresa</string>
     <string name="label_empty">Štítek nemůže zůstat prázdný</string>
     <string name="link">Odkaz</string>
+    <string name="link_share_allow_upload_and_editing">Umožnit nahrávání a úpravy</string>
+    <string name="link_share_file_drop">Přetažení souboru (pouze nahrání)</string>
+    <string name="link_share_read_only">Pouze pro čtení</string>
     <string name="list_layout">Zobrazit jako seznam</string>
     <string name="local_file_list_empty">V této složce nejsou žádné soubory.</string>
     <string name="local_file_not_found_message">Soubor nenalezen na souborovém systému</string>
@@ -476,6 +484,7 @@
     <string name="pref_behaviour_entries_move">přesunuto do složky aplikace</string>
     <string name="pref_instant_name_collision_policy_dialogTitle">Co udělat pokud soubor už existuje?</string>
     <string name="pref_instant_name_collision_policy_entries_always_ask">Pokaždé se zeptat</string>
+    <string name="pref_instant_name_collision_policy_entries_cancel">Přeskočit nahrávání</string>
     <string name="pref_instant_name_collision_policy_entries_overwrite">Přepsat vzdálenou verzi</string>
     <string name="pref_instant_name_collision_policy_entries_rename">Přejmenovat novou verzi</string>
     <string name="pref_instant_name_collision_policy_title">Co udělat pokud soubor už existuje?</string>
@@ -579,12 +588,14 @@
     <string name="share_internal_link_to_file_text">Sdílení interním odkazem funguje pouze pro uživatele, kteří mají k tomuto souboru přístup</string>
     <string name="share_internal_link_to_folder_text">Sdílení interním odkazem funguje pouze pro uživatele, kteří mají k této složce přístup</string>
     <string name="share_known_remote_clarification">%1$s (v %2$s)</string>
+    <string name="share_link">Odkaz na sdílení</string>
     <string name="share_link_empty_password">Je třeba zadat heslo</string>
     <string name="share_link_file_error">Při pokusu o sdílení tohoto souboru či složky došlo k chybě.</string>
     <string name="share_link_file_no_exist">Nedaří se sdílet – zkontrolujte zda soubor existuje.</string>
     <string name="share_link_forbidden_permissions">pro sdílení tohoto souboru</string>
     <string name="share_link_optional_password_title">Zadejte nepovinné heslo</string>
     <string name="share_link_password_title">Zadejte heslo</string>
+    <string name="share_link_with_label">Odkaz na sdílení (%1$s)</string>
     <string name="share_no_expiration_date_label">Nastavit datum skončení platnosti</string>
     <string name="share_no_password_title">Nastavit heslo</string>
     <string name="share_password_title">Chráněno heslem</string>

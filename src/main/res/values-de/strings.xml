@@ -34,7 +34,10 @@
     <string name="add_another_public_share_link">Weiteren Link hinzufügen</string>
     <string name="add_new_public_share">Öffentlichen Link zum Teilen hinzufügen</string>
     <string name="add_to_cloud">Hinzufügen zu %1$s</string>
+    <string name="allow_creating">Erstellen erlauben</string>
+    <string name="allow_deleting">Löschen erlauben</string>
     <string name="allow_editing">Bearbeitung erlauben</string>
+    <string name="allow_resharing">Weiterteilen erlauben</string>
     <string name="appbar_search_in">Suche in %s</string>
     <string name="associated_account_not_found">Verknüpftes Konto nicht gefunden!</string>
     <string name="auth_access_failed">Zugriffsfehler: %1$s</string>
@@ -165,6 +168,7 @@
     <string name="copy_move_to_encrypted_folder_not_supported">In verschlüsselten Ordner kopieren/verschieben wird aktuell nicht unterstützt.</string>
     <string name="copy_to">Kopieren nach…</string>
     <string name="could_not_download_image">Originalbild konnte nicht heruntergeladen werden</string>
+    <string name="could_not_retrieve_shares">Konnte die Freigaben nicht abrufen</string>
     <string name="could_not_retrieve_url">Konnte URL nicht abrufen</string>
     <string name="create_dir_fail_msg">Verzeichnis konnte nicht erstellt werden</string>
     <string name="create_new">Neu erstellen</string>
@@ -272,6 +276,7 @@
     <string name="failed_to_download">Datei konnte nicht an den Downloadmanager übergeben werden</string>
     <string name="failed_to_print">Drucken der Datei fehlgeschlagen</string>
     <string name="failed_to_start_editor">Starten des Editors fehlgeschlagen</string>
+    <string name="failed_update_ui">Oberfläche konnte nicht aktualisiert werden</string>
     <string name="favorite">Zu den Favoriten hinzufügen</string>
     <string name="favorite_icon">Favoriten</string>
     <string name="file_delete">Löschen</string>
@@ -372,6 +377,9 @@
     <string name="invalid_url">Ungültige URL</string>
     <string name="label_empty">Bezeichnung darf nicht leer sein</string>
     <string name="link">Link</string>
+    <string name="link_share_allow_upload_and_editing">Hochladen und Bearbeiten erlauben</string>
+    <string name="link_share_file_drop">Dateien ablegen (nur Hochladen)</string>
+    <string name="link_share_read_only">Schreibgeschützt</string>
     <string name="list_layout">Layout der Liste</string>
     <string name="local_file_list_empty">Es befinden sich keine Dateien in diesem Ordner.</string>
     <string name="local_file_not_found_message">Die Datei wurde im lokalen Dateisystem nicht gefunden</string>
@@ -476,6 +484,7 @@
     <string name="pref_behaviour_entries_move">in den App-Ordner verschoben</string>
     <string name="pref_instant_name_collision_policy_dialogTitle">Was tun, wenn die Datei bereits vorhanden ist?</string>
     <string name="pref_instant_name_collision_policy_entries_always_ask">Mich jedesmal fragen</string>
+    <string name="pref_instant_name_collision_policy_entries_cancel">Hochladen überspringen</string>
     <string name="pref_instant_name_collision_policy_entries_overwrite">Version auf dem Server überschreiben</string>
     <string name="pref_instant_name_collision_policy_entries_rename">Neue Version umbenennen</string>
     <string name="pref_instant_name_collision_policy_title">Was tun, wenn die Datei bereits vorhanden ist?</string>
@@ -579,12 +588,14 @@
     <string name="share_internal_link_to_file_text">Der interne Freigabelink funktioniert nur für Benutzer mit Zugriff auf diese Datei</string>
     <string name="share_internal_link_to_folder_text">Der interne Freigabelink funktioniert nur für Benutzer mit Zugriff auf diesen Ordner</string>
     <string name="share_known_remote_clarification">%1$s ( at %2$s )</string>
+    <string name="share_link">Link teilen</string>
     <string name="share_link_empty_password">Sie müssen ein Passwort eingeben</string>
     <string name="share_link_file_error">Es ist ein Fehler beim Freigeben der Datei oder des Ordners aufgetreten.</string>
     <string name="share_link_file_no_exist">Teilen nicht möglich. Bitte prüfen Sie, ob die Datei existiert.</string>
     <string name="share_link_forbidden_permissions">diese Datei zu teilen</string>
     <string name="share_link_optional_password_title">Passwort eingeben (optional)</string>
     <string name="share_link_password_title">Passwort eingeben</string>
+    <string name="share_link_with_label">Teile Link (%1$s)</string>
     <string name="share_no_expiration_date_label">Ablaufdatum setzen</string>
     <string name="share_no_password_title">Passwort setzen</string>
     <string name="share_password_title">Passwortgeschützt</string>
