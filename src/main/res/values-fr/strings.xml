@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
   <resources>
+    <string name="login_username_password">Connexion avec nom et mot de passe</string>
+    <string name="rate">Noter cette application</string>
+
     <string name="about_android">Application Android %1$s</string>
     <string name="about_title">À propos de</string>
     <string name="about_version">version %1$s</string>

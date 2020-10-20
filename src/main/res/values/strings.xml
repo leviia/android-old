@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="login_username_password">Login with username and password</string>
+    <string name="rate">Rate this app</string>
 
     <string name="about_android">%1$s Android app</string>
     <string name="about_version">version %1$s</string>
