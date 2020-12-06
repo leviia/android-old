@@ -74,8 +74,10 @@ import android.webkit.WebResourceRequest;
 import android.webkit.WebResourceResponse;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
@@ -321,6 +323,16 @@ public class AuthenticatorActivity extends AccountAuthenticatorActivity
         }
 
         initServerPreFragment(savedInstanceState);
+
+        Button button_pro = (Button) findViewById(R.id.login_username_password);
+        button_pro.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View v) {
+                LinearLayout ll = (LinearLayout)findViewById(R.id.pro_url);
+                ll.setVisibility(View.VISIBLE);
+                return true;
+            }
+        });
     }
 
     private void deleteCookies() {

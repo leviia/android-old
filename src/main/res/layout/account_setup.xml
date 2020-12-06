@@ -59,43 +59,6 @@
                 android:layout_marginBottom="@dimen/zero"
                 android:background="@color/primary">
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical">
-
-
-
-                    <TextView
-                        android:id="@+id/edit_text"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:ems="10"
-                        android:text="@string/auth_host_url"
-                        android:textColor="@color/login_text_color"
-                        android:visibility="invisible" />
-
-                    <com.google.android.material.textfield.TextInputEditText
-                        android:id="@+id/host_url_input"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="bottom"
-                        android:text="cloud.leviia.com"
-                        android:contentDescription="@string/auth_host_address"
-                        android:drawablePadding="@dimen/alternate_half_padding"
-                        android:inputType="textUri"
-                        android:paddingStart="@dimen/zero"
-                        android:paddingEnd="@dimen/alternate_padding_right"
-                        android:textColor="@color/login_text_color"
-                        android:textColorHint="@color/login_text_color"
-                        android:visibility="invisible">
-
-                        <requestFocus />
-
-                    </com.google.android.material.textfield.TextInputEditText>
-
-                </LinearLayout>
-
                 <ImageButton
                     android:id="@+id/test_server_button"
                     android:layout_width="wrap_content"
@@ -162,7 +125,45 @@
                 android:padding="@dimen/standard_padding"
                 android:text="@string/login_username_password"
                 android:onClick="onTestServerConnectionClick"
+                android:longClickable="true"
                 app:cornerRadius="@dimen/button_corner_radius" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pro_url"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="invisible">
+
+
+
+            <TextView
+                android:id="@+id/edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:text="@string/auth_host_url"
+                android:textColor="@color/login_text_color"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/host_url_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:text="cloud.leviia.com"
+                android:contentDescription="@string/auth_host_address"
+                android:drawablePadding="@dimen/alternate_half_padding"
+                android:inputType="textUri"
+                android:paddingStart="@dimen/zero"
+                android:paddingEnd="@dimen/alternate_padding_right"
+                android:textColor="@color/login_text_color"
+                android:textColorHint="@color/login_text_color">
+
+                <requestFocus />
+
+            </com.google.android.material.textfield.TextInputEditText>
 
         </LinearLayout>
 
